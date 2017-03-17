@@ -135,8 +135,8 @@ header.carousel .fill {
   position: fixed; 
   margin-left: 
 }
-/* box area */
-.boxed {
-  border: 1px solid green ;
+
+table, th, td {
+    border: 3px solid black;
 }
 
